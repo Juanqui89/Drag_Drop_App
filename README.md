@@ -1,5 +1,4 @@
 
-ChatGPT
 El proyecto "Drag & Drop App" es una aplicación desarrollada utilizando tecnologías modernas como React, TypeScript y Tailwind CSS, diseñada para ofrecer una experiencia de usuario mejorada a través de la manipulación intuitiva de elementos mediante arrastrar y soltar.
 
 En términos de funcionalidad, la aplicación permite a los usuarios interactuar con elementos de manera más fluida y eficiente. Utiliza la biblioteca React para gestionar de manera dinámica la interfaz de usuario, facilitando la creación de componentes reutilizables y optimizando el rendimiento general. TypeScript se integra para proporcionar tipado estático y mejorar la mantenibilidad del código, asegurando que las interacciones entre componentes sean más predecibles y menos propensas a errores.
